@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "release": "20260918T133920386Z",
+  "generatedAt": "2026-09-18T13:39:20.386Z",
+  "coverage": {
+    "channels": 5553,
+    "followers": 5442,
+    "biography": 4775,
+    "email": 969,
+    "country": 3372,
+    "complete": 783
+  },
+  "details": 5553,
+  "relevant": 2464,
+  "relevantComplete": 490,
+  "priority": 54,
+  "sourceKeys": [
+    "channelId",
+    "channelUrl",
+    "row",
+    "priorityRow",
+    "matchedKeywords",
+    "relevantKeywords",
+    "priorityKeywords",
+    "quality",
+    "followerAccounts",
+    "biographySource",
+    "countrySource",
+    "emails",
+    "completion",
+    "followerObservationHistory",
+    "biographyObservationHistory",
+    "publicLinks",
+    "contactPages",
+    "videoEmailEvidence"
+  ],
+  "indexBytes": 5912879,
+  "indexSha256": "717c81b613d7e7a65a21b450b0d67c37af1046f2824977ea401185613972b2dd",
+  "keywords": [
+    "veterinary",
+    "veterinarian",
+    "physical therapist",
+    "chiropractors",
+    "massage therapist",
+    "animal rescue"
+  ],
+  "sourceHashesUnchanged": true,
+  "workbookCopiedWithoutEdits": true,
+  "emailDelta": {
+    "baselineGeneratedAt": "2026-09-18T12:53:53.647Z",
+    "generatedAt": "2026-09-18T13:39:20.386Z",
+    "previousWithEmail": 845,
+    "withEmail": 969,
+    "newEmailChannels": 124,
+    "addedChannelEmailPairs": 514,
+    "distinctNewAddresses": 506,
+    "complete": 783,
+    "previousComplete": 676
+  }
+}
