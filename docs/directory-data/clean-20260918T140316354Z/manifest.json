@@ -1,0 +1,154 @@
+{
+  "ok": true,
+  "sourceGeneratedAt": "2026-09-18T13:39:20.386Z",
+  "cleanupAt": "2026-09-18T14:03:16.354Z",
+  "release": "clean-20260918T140316354Z",
+  "sourceRecordsSha256": "2f8395f0d49fbe138a11e0ef709b12d954f1c7b848124e389960671887651c95",
+  "before": {
+    "channels": 5553,
+    "withEmail": 969
+  },
+  "keep": {
+    "channels": 1861,
+    "uniqueChannels": 1861,
+    "withEmail": 393,
+    "complete": 312,
+    "missing": {
+      "followers": 37,
+      "biography": 0,
+      "email": 1468,
+      "country": 671
+    }
+  },
+  "review": {
+    "channels": 3353,
+    "uniqueChannels": 3353,
+    "withEmail": 494,
+    "complete": 398,
+    "missing": {
+      "followers": 72,
+      "biography": 778,
+      "email": 2859,
+      "country": 1460
+    }
+  },
+  "exclude": {
+    "channels": 339,
+    "uniqueChannels": 339,
+    "withEmail": 82,
+    "complete": 73,
+    "missing": {
+      "followers": 2,
+      "biography": 0,
+      "email": 257,
+      "country": 50
+    }
+  },
+  "priority": 66,
+  "byKeyword": {
+    "veterinary": {
+      "channels": 464,
+      "uniqueChannels": 464,
+      "withEmail": 91,
+      "complete": 74,
+      "missing": {
+        "followers": 4,
+        "biography": 0,
+        "email": 373,
+        "country": 172
+      }
+    },
+    "veterinarian": {
+      "channels": 256,
+      "uniqueChannels": 256,
+      "withEmail": 42,
+      "complete": 38,
+      "missing": {
+        "followers": 3,
+        "biography": 0,
+        "email": 214,
+        "country": 82
+      }
+    },
+    "physical therapist": {
+      "channels": 387,
+      "uniqueChannels": 387,
+      "withEmail": 85,
+      "complete": 67,
+      "missing": {
+        "followers": 4,
+        "biography": 0,
+        "email": 302,
+        "country": 109
+      }
+    },
+    "chiropractors": {
+      "channels": 412,
+      "uniqueChannels": 412,
+      "withEmail": 99,
+      "complete": 84,
+      "missing": {
+        "followers": 7,
+        "biography": 0,
+        "email": 313,
+        "country": 111
+      }
+    },
+    "massage therapist": {
+      "channels": 332,
+      "uniqueChannels": 332,
+      "withEmail": 61,
+      "complete": 47,
+      "missing": {
+        "followers": 12,
+        "biography": 0,
+        "email": 271,
+        "country": 148
+      }
+    },
+    "animal rescue": {
+      "channels": 351,
+      "uniqueChannels": 351,
+      "withEmail": 78,
+      "complete": 60,
+      "missing": {
+        "followers": 11,
+        "biography": 0,
+        "email": 273,
+        "country": 149
+      }
+    }
+  },
+  "reasonCounts": {
+    "gaming": 37,
+    "fiction_or_roleplay": 30,
+    "children_entertainment": 45,
+    "general_institution": 20,
+    "insufficient_own_scope": 1931,
+    "industry_media_or_aggregator": 139,
+    "unrelated_entertainment_or_news": 196,
+    "sports_entertainment": 1,
+    "general_news": 10,
+    "general_pet_or_adjacent": 95,
+    "missing_biography": 793,
+    "explicit_professional_scope": 1507,
+    "rescue_story_or_unconfirmed": 332,
+    "explicit_rescue_operation": 349,
+    "sample_reviewed_own_operation": 4,
+    "former_practitioner_education": 1,
+    "student_or_admissions": 20,
+    "industry_supplier_or_regulator": 40,
+    "role_denial": 3
+  },
+  "manuallyReviewedCorrections": [
+    "UCGisihUQxb3_gE7Qzffyp4g",
+    "UCWWg5HFC5z8pIGLZal8Jgpg",
+    "UCSdPa3sstaWqqI2Amve993w",
+    "UCAn5P2p22AaxdhjXPeJYHjg"
+  ],
+  "rawFiveColumnValuesUnchanged": true,
+  "originalSnapshotUnchanged": true,
+  "qualificationVerified": false,
+  "emailsDeliveryVerified": false,
+  "newCrawlRequests": 0
+}
