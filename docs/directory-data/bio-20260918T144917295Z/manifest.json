@@ -1,0 +1,64 @@
+{
+  "version": "bio-audience-2026-09-18-v1",
+  "original": 5553,
+  "previousKeep": 1861,
+  "keep": {
+    "channels": 1464,
+    "withEmail": 306,
+    "complete": 247
+  },
+  "review": {
+    "channels": 3750,
+    "withEmail": 581,
+    "complete": 463
+  },
+  "exclude": {
+    "channels": 339,
+    "withEmail": 82,
+    "complete": 73
+  },
+  "groups": {
+    "veterinary": {
+      "channels": 395,
+      "withEmail": 74,
+      "complete": 61
+    },
+    "physical therapist": {
+      "channels": 336,
+      "withEmail": 70,
+      "complete": 60
+    },
+    "chiropractors": {
+      "channels": 360,
+      "withEmail": 87,
+      "complete": 75
+    },
+    "massage therapist": {
+      "channels": 285,
+      "withEmail": 50,
+      "complete": 35
+    },
+    "animal rescue": {
+      "channels": 217,
+      "withEmail": 54,
+      "complete": 43
+    },
+    "equestrian": {
+      "channels": 43,
+      "withEmail": 7,
+      "complete": 4
+    },
+    "horse racer": {
+      "channels": 0,
+      "withEmail": 0,
+      "complete": 0
+    }
+  },
+  "movedToReview": 425,
+  "horseAddedFromReview": 28,
+  "valuesUnchanged": true,
+  "emailsUnmodified": true,
+  "release": "bio-20260918T144917295Z",
+  "sourceGeneratedAt": "2026-09-18T13:39:20.386Z",
+  "classifiedAt": "2026-09-18T14:49:17.295Z"
+}

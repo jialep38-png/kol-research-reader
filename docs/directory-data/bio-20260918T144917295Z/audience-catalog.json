@@ -1,0 +1,700 @@
+{
+  "version": "bio-audience-2026-09-18-v1",
+  "audiences": [
+    {
+      "id": "veterinary",
+      "keyword": "veterinary",
+      "label": "Veterinary / Veterinarian · 兽医人群",
+      "aliases": [
+        "veterinarian",
+        "veterinarians",
+        "veterinary medicine",
+        "veterinary surgeon",
+        "vet doctor",
+        "兽医",
+        "兽医相关"
+      ],
+      "terms": [
+        {
+          "phrase": "veterinarian",
+          "kind": "role"
+        },
+        {
+          "phrase": "veterinarians",
+          "kind": "role"
+        },
+        {
+          "phrase": "veterinary surgeon",
+          "kind": "role"
+        },
+        {
+          "phrase": "veterinary surgeons",
+          "kind": "role"
+        },
+        {
+          "phrase": "veterinary doctor",
+          "kind": "role"
+        },
+        {
+          "phrase": "veterinary physician",
+          "kind": "role"
+        },
+        {
+          "phrase": "veterinary nurse",
+          "kind": "role"
+        },
+        {
+          "phrase": "veterinary technician",
+          "kind": "role"
+        },
+        {
+          "phrase": "veterinary",
+          "kind": "service"
+        },
+        {
+          "phrase": "veterinary medicine",
+          "kind": "service"
+        },
+        {
+          "phrase": "veterinary clinic",
+          "kind": "service"
+        },
+        {
+          "phrase": "veterinary hospital",
+          "kind": "service"
+        },
+        {
+          "phrase": "animal hospital",
+          "kind": "service"
+        },
+        {
+          "phrase": "animal clinic",
+          "kind": "service"
+        },
+        {
+          "phrase": "兽医",
+          "kind": "service"
+        },
+        {
+          "phrase": "獸醫",
+          "kind": "service"
+        },
+        {
+          "phrase": "动物医院",
+          "kind": "service"
+        },
+        {
+          "phrase": "動物醫院",
+          "kind": "service"
+        },
+        {
+          "phrase": "DVM",
+          "kind": "conditional"
+        },
+        {
+          "phrase": "MRCVS",
+          "kind": "conditional"
+        },
+        {
+          "phrase": "BVSc",
+          "kind": "conditional"
+        }
+      ],
+      "notSynonyms": [
+        "vet（单独出现可能指 veteran）",
+        "pet lover",
+        "animal lover",
+        "zoologist",
+        "veteran"
+      ],
+      "boundaries": "Veterinary 与 Veterinarian 合并为一个人群入口。护士、技师与诊所是该领域的不同角色，不等于全部为执业兽医。",
+      "sources": []
+    },
+    {
+      "id": "physical-therapist",
+      "keyword": "physical therapist",
+      "label": "Physical Therapy · 物理治疗人群",
+      "aliases": [
+        "physical therapists",
+        "physical therapy",
+        "physiotherapy",
+        "physiotherapist",
+        "physiotherapists",
+        "物理治疗",
+        "理疗"
+      ],
+      "terms": [
+        {
+          "phrase": "physical therapist",
+          "kind": "role"
+        },
+        {
+          "phrase": "physical therapists",
+          "kind": "role"
+        },
+        {
+          "phrase": "physiotherapist",
+          "kind": "role"
+        },
+        {
+          "phrase": "physiotherapists",
+          "kind": "role"
+        },
+        {
+          "phrase": "doctor of physical therapy",
+          "kind": "role"
+        },
+        {
+          "phrase": "doctors of physical therapy",
+          "kind": "role"
+        },
+        {
+          "phrase": "physical therapy",
+          "kind": "service"
+        },
+        {
+          "phrase": "physiotherapy",
+          "kind": "service"
+        },
+        {
+          "phrase": "physio therapy",
+          "kind": "service"
+        },
+        {
+          "phrase": "物理治疗",
+          "kind": "service"
+        },
+        {
+          "phrase": "物理治療",
+          "kind": "service"
+        },
+        {
+          "phrase": "理学療法",
+          "kind": "service"
+        },
+        {
+          "phrase": "fisioterapia",
+          "kind": "service"
+        },
+        {
+          "phrase": "fisioterapeuta",
+          "kind": "service"
+        },
+        {
+          "phrase": "kinésithérapie",
+          "kind": "service"
+        },
+        {
+          "phrase": "kinésithérapeute",
+          "kind": "service"
+        },
+        {
+          "phrase": "DPT",
+          "kind": "conditional"
+        },
+        {
+          "phrase": "physio",
+          "kind": "conditional"
+        }
+      ],
+      "notSynonyms": [
+        "PT（单独出现）",
+        "personal trainer",
+        "fitness coach",
+        "occupational therapist",
+        "rehabilitation（单独出现）",
+        "kinesiologist（地区含义不同，需另核）"
+      ],
+      "boundaries": "职业称谓与服务词同属一类；健身、泛康复、个人教练及作业治疗不能自动视为同义词。",
+      "sources": [
+        {
+          "title": "World Physiotherapy: profession titles and scope",
+          "url": "https://world.physio/resources/what-is-physiotherapy"
+        }
+      ]
+    },
+    {
+      "id": "chiropractors",
+      "keyword": "chiropractors",
+      "label": "Chiropractic · 整脊人群",
+      "aliases": [
+        "chiropractor",
+        "chiropractic",
+        "doctor of chiropractic",
+        "整脊"
+      ],
+      "terms": [
+        {
+          "phrase": "chiropractor",
+          "kind": "role"
+        },
+        {
+          "phrase": "chiropractors",
+          "kind": "role"
+        },
+        {
+          "phrase": "chiropractic physician",
+          "kind": "role"
+        },
+        {
+          "phrase": "doctor of chiropractic",
+          "kind": "role"
+        },
+        {
+          "phrase": "chiropractic",
+          "kind": "service"
+        },
+        {
+          "phrase": "整脊",
+          "kind": "service"
+        },
+        {
+          "phrase": "脊椎调整",
+          "kind": "service"
+        },
+        {
+          "phrase": "脊椎調整",
+          "kind": "service"
+        }
+      ],
+      "notSynonyms": [
+        "DC（单独出现）",
+        "osteopath",
+        "massage",
+        "back pain"
+      ],
+      "boundaries": "整骨、按摩或腰背痛话题不自动归为 Chiropractor；体验者与接受治疗的人也不视为从业者。",
+      "sources": []
+    },
+    {
+      "id": "massage-therapist",
+      "keyword": "massage therapist",
+      "label": "Massage Therapy · 按摩人群",
+      "aliases": [
+        "massage therapists",
+        "massage therapy",
+        "按摩师"
+      ],
+      "terms": [
+        {
+          "phrase": "massage therapist",
+          "kind": "role"
+        },
+        {
+          "phrase": "massage therapists",
+          "kind": "role"
+        },
+        {
+          "phrase": "massage practitioner",
+          "kind": "role"
+        },
+        {
+          "phrase": "masseur",
+          "kind": "role"
+        },
+        {
+          "phrase": "masseuse",
+          "kind": "role"
+        },
+        {
+          "phrase": "按摩师",
+          "kind": "role"
+        },
+        {
+          "phrase": "按摩師",
+          "kind": "role"
+        },
+        {
+          "phrase": "massage therapy",
+          "kind": "service"
+        },
+        {
+          "phrase": "clinical massage",
+          "kind": "service"
+        },
+        {
+          "phrase": "sports massage",
+          "kind": "service"
+        },
+        {
+          "phrase": "equine massage",
+          "kind": "service"
+        },
+        {
+          "phrase": "canine massage",
+          "kind": "service"
+        },
+        {
+          "phrase": "animal massage",
+          "kind": "service"
+        },
+        {
+          "phrase": "LMT",
+          "kind": "conditional"
+        },
+        {
+          "phrase": "RMT",
+          "kind": "conditional"
+        }
+      ],
+      "notSynonyms": [
+        "spa（单独出现）",
+        "ASMR",
+        "massage（单独出现）",
+        "bodywork（未说明领域）"
+      ],
+      "boundaries": "人类与动物按摩可分别标记；仅有放松视频、ASMR 扮演或接受按摩的描述不足以准入。",
+      "sources": []
+    },
+    {
+      "id": "animal-rescue",
+      "keyword": "animal rescue",
+      "label": "Animal Rescue · 动物救助人群",
+      "aliases": [
+        "animal rescues",
+        "animal shelter",
+        "animal sanctuary",
+        "dog rescue",
+        "cat rescue",
+        "wildlife rescue",
+        "动物救助"
+      ],
+      "terms": [
+        {
+          "phrase": "animal rescuer",
+          "kind": "role"
+        },
+        {
+          "phrase": "animal rescuers",
+          "kind": "role"
+        },
+        {
+          "phrase": "wildlife rehabilitator",
+          "kind": "role"
+        },
+        {
+          "phrase": "wildlife rehabilitators",
+          "kind": "role"
+        },
+        {
+          "phrase": "animal rescue volunteer",
+          "kind": "role"
+        },
+        {
+          "phrase": "animal rescue",
+          "kind": "service"
+        },
+        {
+          "phrase": "animal shelter",
+          "kind": "service"
+        },
+        {
+          "phrase": "animal sanctuary",
+          "kind": "service"
+        },
+        {
+          "phrase": "dog rescue",
+          "kind": "service"
+        },
+        {
+          "phrase": "cat rescue",
+          "kind": "service"
+        },
+        {
+          "phrase": "horse rescue",
+          "kind": "service"
+        },
+        {
+          "phrase": "equine rescue",
+          "kind": "service"
+        },
+        {
+          "phrase": "wildlife rescue",
+          "kind": "service"
+        },
+        {
+          "phrase": "pet rescue",
+          "kind": "service"
+        },
+        {
+          "phrase": "dog shelter",
+          "kind": "service"
+        },
+        {
+          "phrase": "cat shelter",
+          "kind": "service"
+        },
+        {
+          "phrase": "wildlife rehabilitation",
+          "kind": "service"
+        },
+        {
+          "phrase": "动物救助",
+          "kind": "service"
+        },
+        {
+          "phrase": "動物救助",
+          "kind": "service"
+        },
+        {
+          "phrase": "动物收容",
+          "kind": "service"
+        },
+        {
+          "phrase": "動物收容",
+          "kind": "service"
+        },
+        {
+          "phrase": "rescue animals",
+          "kind": "service"
+        },
+        {
+          "phrase": "rescuing animals",
+          "kind": "service"
+        },
+        {
+          "phrase": "rescue dogs",
+          "kind": "service"
+        },
+        {
+          "phrase": "rescuing dogs",
+          "kind": "service"
+        },
+        {
+          "phrase": "animal rehabilitation",
+          "kind": "service"
+        },
+        {
+          "phrase": "rehabilitate animals",
+          "kind": "service"
+        }
+      ],
+      "notSynonyms": [
+        "animal",
+        "pet owner",
+        "rescue stories（仅转述）",
+        "rescued dog（仅宠物身世）"
+      ],
+      "boundaries": "需简介说明本人／团队救助、收容或康复范围；宠物主人、新闻转述、AI 故事与戏剧重现分开。",
+      "sources": []
+    },
+    {
+      "id": "equestrian",
+      "keyword": "equestrian",
+      "label": "Equestrian · 马术骑乘人群",
+      "aliases": [
+        "equestrians",
+        "horse rider",
+        "horseback rider",
+        "equestrian rider",
+        "dressage rider",
+        "show jumper",
+        "event rider",
+        "horse riding",
+        "马术",
+        "骑手"
+      ],
+      "terms": [
+        {
+          "phrase": "equestrian",
+          "kind": "role"
+        },
+        {
+          "phrase": "equestrians",
+          "kind": "role"
+        },
+        {
+          "phrase": "equestrian rider",
+          "kind": "role"
+        },
+        {
+          "phrase": "horse rider",
+          "kind": "role"
+        },
+        {
+          "phrase": "horse riders",
+          "kind": "role"
+        },
+        {
+          "phrase": "horseback rider",
+          "kind": "role"
+        },
+        {
+          "phrase": "riding instructor",
+          "kind": "role"
+        },
+        {
+          "phrase": "equestrian coach",
+          "kind": "role"
+        },
+        {
+          "phrase": "dressage rider",
+          "kind": "role"
+        },
+        {
+          "phrase": "show jumper",
+          "kind": "role"
+        },
+        {
+          "phrase": "showjumping rider",
+          "kind": "role"
+        },
+        {
+          "phrase": "show jumping rider",
+          "kind": "role"
+        },
+        {
+          "phrase": "event rider",
+          "kind": "role"
+        },
+        {
+          "phrase": "eventer",
+          "kind": "role"
+        },
+        {
+          "phrase": "horse riding",
+          "kind": "discipline"
+        },
+        {
+          "phrase": "horseback riding",
+          "kind": "discipline"
+        },
+        {
+          "phrase": "horsemanship",
+          "kind": "discipline"
+        },
+        {
+          "phrase": "dressage",
+          "kind": "discipline"
+        },
+        {
+          "phrase": "show jumping",
+          "kind": "discipline"
+        },
+        {
+          "phrase": "showjumping",
+          "kind": "discipline"
+        },
+        {
+          "phrase": "eventing",
+          "kind": "discipline"
+        },
+        {
+          "phrase": "马术",
+          "kind": "discipline"
+        },
+        {
+          "phrase": "馬術",
+          "kind": "discipline"
+        }
+      ],
+      "notSynonyms": [
+        "horse（单独出现）",
+        "equine（单独出现）",
+        "rider（可能是自行车／摩托车）",
+        "horse lover",
+        "horse trainer（需说明骑乘或马术）"
+      ],
+      "boundaries": "骑乘、障碍、盛装舞步、三项赛为不同马术方向，可在一个马术人群下标注细分；不把所有养马或动物账号归入。",
+      "sources": [
+        {
+          "title": "FEI: equestrian disciplines",
+          "url": "https://www.fei.org/disciplines"
+        }
+      ]
+    },
+    {
+      "id": "horse-racer",
+      "keyword": "horse racer",
+      "label": "Horse Racer / Jockey · 赛马骑师",
+      "aliases": [
+        "horse racers",
+        "jockey",
+        "jockeys",
+        "race rider",
+        "flat jockey",
+        "jump jockey",
+        "赛马骑师"
+      ],
+      "terms": [
+        {
+          "phrase": "horse racer",
+          "kind": "role"
+        },
+        {
+          "phrase": "horse racers",
+          "kind": "role"
+        },
+        {
+          "phrase": "jockey",
+          "kind": "role"
+        },
+        {
+          "phrase": "jockeys",
+          "kind": "role"
+        },
+        {
+          "phrase": "race rider",
+          "kind": "role"
+        },
+        {
+          "phrase": "race riders",
+          "kind": "role"
+        },
+        {
+          "phrase": "racehorse jockey",
+          "kind": "role"
+        },
+        {
+          "phrase": "apprentice jockey",
+          "kind": "role"
+        },
+        {
+          "phrase": "conditional jockey",
+          "kind": "role"
+        },
+        {
+          "phrase": "flat jockey",
+          "kind": "role"
+        },
+        {
+          "phrase": "jump jockey",
+          "kind": "role"
+        },
+        {
+          "phrase": "amateur jockey",
+          "kind": "role"
+        },
+        {
+          "phrase": "professional jockey",
+          "kind": "role"
+        },
+        {
+          "phrase": "赛马骑师",
+          "kind": "role"
+        },
+        {
+          "phrase": "賽馬騎師",
+          "kind": "role"
+        }
+      ],
+      "notSynonyms": [
+        "horse racing（仅话题）",
+        "racehorse trainer（练马师，不等于骑师）",
+        "horse owner",
+        "breeder",
+        "racing tipster",
+        "betting",
+        "racer（可能是赛车）",
+        "disc jockey"
+      ],
+      "boundaries": "horse racer 以实际骑师表达 Jockey / Race Rider 检索。练马师、马主、赛事媒体与博彩分析不自动合并为骑师。",
+      "sources": [
+        {
+          "title": "BHA: Jockeys and licence types",
+          "url": "https://www.britishhorseracing.com/regulation/licensing/jockeys/"
+        }
+      ]
+    }
+  ]
+}
