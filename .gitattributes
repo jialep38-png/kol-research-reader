@@ -1,0 +1,2 @@
+# Keep published data bytes identical to the verified delivery snapshots.
+docs/directory-data/** -text

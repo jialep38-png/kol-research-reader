@@ -1,0 +1,49 @@
+{
+  "ok": true,
+  "release": "20260918-205353",
+  "generatedAt": "2026-09-18T12:53:53.647Z",
+  "coverage": {
+    "channels": 5553,
+    "followers": 5442,
+    "biography": 4775,
+    "email": 845,
+    "country": 3371,
+    "complete": 676
+  },
+  "details": 5553,
+  "relevant": 2464,
+  "relevantComplete": 490,
+  "priority": 54,
+  "sourceKeys": [
+    "channelId",
+    "channelUrl",
+    "row",
+    "priorityRow",
+    "matchedKeywords",
+    "relevantKeywords",
+    "priorityKeywords",
+    "quality",
+    "followerAccounts",
+    "biographySource",
+    "countrySource",
+    "emails",
+    "completion",
+    "followerObservationHistory",
+    "biographyObservationHistory",
+    "publicLinks",
+    "contactPages",
+    "videoEmailEvidence"
+  ],
+  "indexBytes": 5884140,
+  "indexSha256": "cd5ade520c3e49369c9cf3657964e4e3a4acef85d822037333d2a146535e89df",
+  "keywords": [
+    "veterinary",
+    "veterinarian",
+    "physical therapist",
+    "chiropractors",
+    "massage therapist",
+    "animal rescue"
+  ],
+  "sourceHashesUnchanged": true,
+  "workbookCopiedWithoutEdits": true
+}
